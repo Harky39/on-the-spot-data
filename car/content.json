@@ -1,0 +1,13 @@
+{
+  "site": "car",
+  "updated": "2026-09-19T22:12:18Z",
+  "showcase": {
+    "before": "images/slider-before.jpg",
+    "after": "images/slider-after.jpg"
+  },
+  "gallery": [
+    { "id": "g1", "image": "images/gallery-door-crack.jpg", "chip": "Before", "caption": "Cracked door panel — stripped back and ready for repair" },
+    { "id": "g2", "image": "images/gallery-filler-wide.jpg", "chip": "In progress", "caption": "Impact-damaged door & quarter panel, filled and faired" },
+    { "id": "g3", "image": "images/gallery-filler-detail.jpg", "chip": "In progress", "caption": "Filling detail — smoothed and ready to prime & spray" }
+  ]
+}
