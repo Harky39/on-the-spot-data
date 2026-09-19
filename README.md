@@ -8,3 +8,5 @@ Editable content and quote data for the two On The Spot websites.
 - `quotes/<id>.json` + `quotes/<id>/photo-N.jpg` — full quote details and photos
 
 Edited through the staff admin panel at https://harky39.github.io/on-the-spot-admin/
+
+<!-- pages build nudge 2026-09-19T22:58:45Z -->
