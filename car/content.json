@@ -1,6 +1,6 @@
 {
   "site": "car",
-  "updated": "2026-09-19T23:56:44.593266Z",
+  "updated": "2026-09-19T23:58:57.995Z",
   "showcase": {
     "before": "images/slider-before.jpg",
     "after": "images/slider-after.jpg"
@@ -10,7 +10,7 @@
       "id": "g1",
       "image": "images/gallery-door-crack.jpg",
       "chip": "Before",
-      "caption": "Cracked door panel — stripped back and ready for repair"
+      "caption": "Cracked door panel â stripped back and ready for repair"
     },
     {
       "id": "g2",
@@ -22,8 +22,8 @@
       "id": "g3",
       "image": "images/gallery-filler-detail.jpg",
       "chip": "In progress",
-      "caption": "Filling detail — smoothed and ready to prime & spray"
+      "caption": "Filling detail â smoothed and ready to prime & spray"
     }
   ],
-  "theme": "retro-garage"
+  "theme": "performance"
 }
