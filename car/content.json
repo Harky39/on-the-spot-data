@@ -1,6 +1,6 @@
 {
   "site": "car",
-  "updated": "2026-09-21T13:07:26.850Z",
+  "updated": "2026-09-21T13:10:47.990Z",
   "showcase": {
     "before": "images/slider-before.jpg",
     "after": "images/slider-after.jpg"
@@ -24,5 +24,6 @@
       "chip": "Before",
       "caption": "Filling detail — smoothed and ready to prime & spray"
     }
-  ]
+  ],
+  "theme": "retro-garage"
 }
