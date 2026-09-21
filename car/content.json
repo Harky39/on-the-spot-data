@@ -1,6 +1,6 @@
 {
   "site": "car",
-  "updated": "2026-09-20T00:08:24.571292Z",
+  "updated": "2026-09-21T08:17:16.965Z",
   "showcase": {
     "before": "images/slider-before.jpg",
     "after": "images/slider-after.jpg"
@@ -25,5 +25,5 @@
       "caption": "Filling detail — smoothed and ready to prime & spray"
     }
   ],
-  "theme": "performance"
+  "theme": "noir-luxury"
 }
