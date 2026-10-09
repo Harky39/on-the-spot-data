@@ -1,6 +1,6 @@
 {
   "site": "car",
-  "updated": "2026-09-23T08:25:45.188Z",
+  "updated": "2026-10-09T22:00:29.378Z",
   "showcase": {
     "before": "images/slider-before.jpg",
     "after": "images/slider-after.jpg"
@@ -25,5 +25,5 @@
       "caption": "Filling detail — smoothed and ready to prime & spray"
     }
   ],
-  "theme": "bento"
+  "theme": "retro-garage"
 }
