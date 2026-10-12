@@ -1,10 +1,9 @@
 {
   "site": "van",
-  "updated": "2026-10-12T13:20:27.791Z",
+  "updated": "2026-10-12T14:21:19.756Z",
   "showcase": {
     "before": "images/damage-1.jpg",
     "after": "images/repaired-1.jpg"
   },
-  "gallery": [],
-  "theme": "bento"
+  "gallery": []
 }
